@@ -1,0 +1,10 @@
+binance
+discord.py
+mplfinance
+numpy
+pandas
+scikit-learn
+scipy
+arsenic
+firebase
+firebase_admin
